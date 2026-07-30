@@ -45,5 +45,23 @@ In development.
 3. Open the main scene from `Assets/Scenes`.
 4. Press Play.
 
+## Non-goals
+
+- Multiple levels or enemy types
+- Crafting or complex inventory systems
+- Achievements, localization, or full voice acting
+- Cinematic cutscenes
+- A full-length game
+
+## Definition of done
+
+- A polished 10–15 minute playable horror vertical slice
+- One enemy with patrol, investigate, chase, and search behaviours
+- Vision and hearing detection
+- One complete environmental puzzle and key-item flow
+- Checkpoint save/load
+- Functional menus and settings
+- Windows build, screenshots, and a 60–90 second demo video
+
 ## Portfolio evidence
 This project demonstrates gameplay programming, finite state machines, AI perception, UI systems, persistence, and Unity optimization awareness.
