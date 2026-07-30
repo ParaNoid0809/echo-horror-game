@@ -15,6 +15,21 @@ Navigate a hostile environment, uncover story clues, solve an environmental puzz
 - Main menu, pause menu, and settings
 - URP lighting, post-processing, and atmospheric audio
 
+- ## Controls
+-WASD — Move
+-Mouse — Look
+-E — Interact
+-Esc — Pause
+
+- ## Project structure
+
+- `Scripts/` contains gameplay systems, split by responsibility: Player, Interaction, Inventory, Enemy, Puzzle, UI, and Core systems.
+- `Scenes/` contains the main menu, playable prototype, and isolated test scenes.
+- `Prefabs/` contains reusable player, enemy, environment, interactable, puzzle, and UI objects.
+- `Data/ScriptableObjects/` stores configurable item, enemy, audio, and settings data.
+- `Audio/` holds ambience, music, sound effects, and voice logs.
+- `Art/` contains visual assets such as models, materials, textures, shaders, and VFX.
+
 ## Tech stack
 - Unity 6
 - C#
