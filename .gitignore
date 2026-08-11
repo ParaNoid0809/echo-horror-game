@@ -104,3 +104,15 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+# Unity project is inside the Echo subfolder
+/Echo/[Ll]ibrary/
+/Echo/[Tt]emp/
+/Echo/[Oo]bj/
+/Echo/[Bb]uild/
+/Echo/[Bb]uilds/
+/Echo/[Ll]ogs/
+/Echo/[Uu]serSettings/
+/Echo/[Mm]emoryCaptures/
+/Echo/[Rr]ecordings/
